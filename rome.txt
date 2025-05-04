@@ -1,2 +1,11 @@
-Gaius Julius Caesar
-Octavian Augustus Caesar 
+Lista de emperadores:
+1,Gaius Julius Caesar
+2,Octavian Augustus Caesar
+3,Napoleon Bonaparte
+4,Carlomagno
+5,Septimio Severo
+6,Aureliano
+7,Marco Aurelio
+8,Juliano
+9,Justiniano
+10,Adriano 
