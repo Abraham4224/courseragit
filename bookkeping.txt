@@ -1,2 +1,2 @@
 Assets = Liability + Equity
-Assets + Expenses
+Assets + Expenses = Liability + Equity + Revenues
