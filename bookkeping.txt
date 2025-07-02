@@ -1,2 +1,3 @@
 Assets = Liability + Equity
 Assets + Expenses = Liability + Equity + Revenues
+Debit Credit for all  the accounts
